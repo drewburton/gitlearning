@@ -2,9 +2,11 @@ class Calculator {
 	public int add( int a, int b) {
 	}
 	
-	public subtract( int a, int b){
+	public int subtract( int a, int b){
+		return (a - b);
 	}
 	
-	public multiply( int a, int b){
+	public int multiply( int a, int b){
+		return 0;
 	}
 }
