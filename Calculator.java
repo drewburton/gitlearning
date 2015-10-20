@@ -5,7 +5,8 @@ class Calculator {
 	}
 	
 	public int subtract( int a, int b){
-		return (a - b);
+		int result = a - b;
+		return  result;
 	}
 	
 	public int multiply( int a, int b){
